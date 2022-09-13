@@ -1,4 +1,7 @@
 # code to create ec2
+# type -->t2.xlarge
+# os --> windows
+
 
 terraform {
   required_providers {
